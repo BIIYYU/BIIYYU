@@ -19,12 +19,12 @@
 
 <br/>
 
-<!-- About Section -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 <table>
 <tr>
-<td valign="top" width=
+<td valign="top" width="60%">
+```js
 const biyu = {
     name: "Abiyyu",
     role: "Fullstack Web Developer",
@@ -33,24 +33,7 @@ const biyu = {
     freelance: true,
     location: "Indonesia 🇮🇩",
 };
-
-🏢 &nbsp;Working at **PT Pulau Sambu** as Fullstack Web Developer
-
-🚀 &nbsp;Freelance developer for **UMKM**, **Clinics** & **Company Profiles**
-
-💡 &nbsp;Building **enterprise web apps** & **operational dashboards**
-
-🎯 &nbsp;Focused on **scalable architecture** & **clean UI design**
-
-📫 &nbsp;Reach me at **abiyyu.aqil@email.com**
-
-</td>
-<td valign="top" width="40%" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</td>
-</tr>
-</table>
----
+```
 
 <!-- Tech Stack -->
 ## 🛠️ &nbsp;Tech Stack
