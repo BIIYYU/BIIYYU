@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:4a6cf7&height=220&section=header&text=BIYU&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Web%20Developer&descSize=18&descAlignY=55&descColor=94a3b8" width="100%" />
 
-<!-- Typing Animation -->
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%F0%9F%92%BB+Building+Web+Applications;%F0%9F%9A%80+PHP+%7C+JavaScript+%7C+React+%7C+CodeIgniter;%F0%9F%8E%AF+Clean+Code+%E2%80%A2+Scalable+Systems+%E2%80%A2+Modern+UI)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
 <a href="https://github.com/BIIYYU"><img src="https://img.shields.io/badge/GitHub-BIIYYU-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:abiyyu.aqil@email.com"><img src="https://img.shields.io/badge/Email-Contact_Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=BIIYYU&label=Profile+Views&color=00d4ff&style=for-the-badge" />
@@ -18,29 +15,27 @@
 </div>
 
 <br/>
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+
+## 👋 &nbsp;About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
-```js
-const biyu = {
-    name: "Abiyyu",
-    role: "Fullstack Web Developer",
-    company: "PT Pulau Sambu",
-    since: 2020,
-    freelance: true,
-    location: "Indonesia 🇮🇩",
-};
-```
 
-- 🏢 &nbsp;Working at **PT Pulau Sambu** as Fullstack Web Developer
-- 🚀 &nbsp;Freelance developer for **UMKM**, **Clinics** & **Company Profiles**
-- 💡 &nbsp;Building **enterprise web apps** & **operational dashboards**
-- 🎯 &nbsp;Focused on **scalable architecture** & **clean UI design**
-- 📫 &nbsp;Reach me at **abiyyu.aqil@email.com**
+&nbsp;&nbsp;🏢 &nbsp;Working at **PT Pulau Sambu** as Fullstack Web Developer *(2020 - Present)*
+
+&nbsp;&nbsp;🚀 &nbsp;Freelance developer for **UMKM**, **Clinics** & **Company Profiles**
+
+&nbsp;&nbsp;💡 &nbsp;Building **enterprise web apps** & **operational dashboards**
+
+&nbsp;&nbsp;🎯 &nbsp;Focused on **scalable architecture** & **clean UI design**
+
+&nbsp;&nbsp;🌏 &nbsp;Based in **Indonesia**
+
+&nbsp;&nbsp;📫 &nbsp;Reach me at **abiyyu.aqil@email.com**
 
 <br clear="both"/>
 
-<!-- Tech Stack -->
+---
+
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
@@ -77,7 +72,6 @@ const biyu = {
 
 ---
 
-<!-- Skill Progress -->
 ## 📊 &nbsp;Skill Proficiency
 
 ```text
@@ -93,56 +87,29 @@ Git & DevOps        ██████████████████░░
 
 ---
 
-<!-- Work Experience -->
 ## 💼 &nbsp;Work Experience
 
-<table>
-<tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/2020-Present-00d4ff?style=flat-square" />
-</td>
-<td>
-
-### 🏢 PT Pulau Sambu — Fullstack Web Developer
+| | |
+|---|---|
+| ![Badge](https://img.shields.io/badge/2020-Present-00d4ff?style=flat-square) | **🏢 PT Pulau Sambu — Fullstack Web Developer** |
 
 - 🔹 Developing internal company web applications & enterprise systems
 - 🔹 Building database systems using PostgreSQL and SQL Server
 - 🔹 Creating web dashboards for operational monitoring & analytics
 - 🔹 Maintaining and improving company web infrastructure
 
-</td>
-</tr>
-<tr>
-<td width="80" align="center">
-<img src="https://img.shields.io/badge/Ongoing-Freelance-4a6cf7?style=flat-square" />
-</td>
-<td>
-
-### 🚀 Freelance Web Developer
+| | |
+|---|---|
+| ![Badge](https://img.shields.io/badge/Ongoing-Freelance-4a6cf7?style=flat-square) | **🚀 Freelance Web Developer** |
 
 - 🔹 UMKM business websites & e-commerce solutions
 - 🔹 Midwife clinic management systems (Praktek Bidan)
 - 🔹 Company profile websites with modern design
 - 🔹 Landing pages & custom web applications
 
-</td>
-</tr>
-</table>
-
 ---
 
-<!-- Projects -->
 ## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=BIIYYU&repo=BIIYYU&theme=react&border_color=0d1117&bg_color=0d1117&title_color=00d4ff&icon_color=4a6cf7&text_color=94a3b8" />
-</a>
-
-</div>
-
-<br/>
 
 | Project | Tech | Description |
 |---------|------|-------------|
@@ -153,7 +120,6 @@ Git & DevOps        ██████████████████░░
 
 ---
 
-<!-- GitHub Stats -->
 ## 📈 &nbsp;GitHub Analytics
 
 <div align="center">
@@ -164,30 +130,16 @@ Git & DevOps        ██████████████████░░
 
 <br/><br/>
 
-<!-- Streak Stats -->
 <img width="600" src="https://streak-stats.demolab.com/?user=BIIYYU&theme=react&background=0d1117&border=0d1117&ring=00d4ff&fire=4a6cf7&currStreakLabel=00d4ff&sideLabels=94a3b8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=64748b" />
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=BIIYYU&bg_color=0d1117&color=00d4ff&line=4a6cf7&point=00d4ff&area=true&area_color=4a6cf720&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- Contribution Snake -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BIIYYU/BIIYYU/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BIIYYU/BIIYYU/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/BIIYYU/BIIYYU/output/github-snake-dark.svg" width="100%" />
-</picture>
-</div>
-
----
-
-<!-- Trophy -->
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
@@ -198,13 +150,11 @@ Git & DevOps        ██████████████████░░
 
 ---
 
-<!-- Quote -->
 <div align="center">
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
@@ -212,12 +162,8 @@ Git & DevOps        ██████████████████░░
 
 <br/>
 
-<a href="https://github.com/BIIYYU">
-<img src="https://img.shields.io/badge/-BIIYYU-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:abiyyu.aqil@email.com">
-<img src="https://img.shields.io/badge/-Email_Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://github.com/BIIYYU"><img src="https://img.shields.io/badge/-BIIYYU-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:abiyyu.aqil@email.com"><img src="https://img.shields.io/badge/-Email_Me-00d4ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
