@@ -132,9 +132,9 @@ Git & DevOps        ██████████████████░░
 <div align="center">
 
 <!-- Stats & Top Languages -->
-<img height="175" src="https://readme-stats-biiyu.vercel.app/api?username=BIIYYU&show_icons=true&count_private=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&ring_color=60a5fa&hide_border=false" />
+<img height="175" src="https://readme-stats-biiyu.vercel.app/api?username=BIIYYU&show_icons=true&count_private=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&ring_color=60a5fa&hide_border=false&cache_seconds=1800" />
 &nbsp;
-<img height="175" src="https://readme-stats-biiyu.vercel.app/api/top-langs/?username=BIIYYU&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8&hide_border=false" />
+<img height="175" src="https://readme-stats-biiyu.vercel.app/api/top-langs/?username=BIIYYU&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8&hide_border=false&cache_seconds=1800" />
 
 <br/><br/>
 
