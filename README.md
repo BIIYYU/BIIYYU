@@ -143,10 +143,22 @@ Git & DevOps        ██████████████████░░
 
 <br/><br/>
 
+<!-- WakaTime Stats -->
+<img width="500" src="https://readme-stats-biiyu.vercel.app/api/wakatime?username=BIIYYU&theme=github_dark&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&border_color=30363d&layout=compact" />
+
+<br/><br/>
+
 <!-- Activity Graph - pakai github-readme-activity-graph yang reliable -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BIIYYU&bg_color=0d1117&color=60a5fa&line=3b82f6&point=60a5fa&area=true&area_color=1d4ed820&hide_border=true&radius=6" />
 
 </div>
+
+---
+
+## ⚡ Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
