@@ -138,8 +138,8 @@ Git & DevOps        ██████████████████░░
 
 <br/><br/>
 
-<!-- Streak - pakai github-readme-streak-stats yang stabil (hosted di vercel) -->
-<img width="600" src="https://streak-stats.demolab.com/?user=BIIYYU&theme=github-dark-blue&background=0d1117&border=30363d&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=64748b&stroke=0d1117" />
+<!-- Streak Stats -->
+<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=BIIYYU&theme=github-dark-blue&background=0d1117&border=30363d&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=64748b&stroke=0d1117&date_format=j%20M%5B%20Y%5D" />
 
 <br/><br/>
 
