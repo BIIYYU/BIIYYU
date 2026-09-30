@@ -132,14 +132,14 @@ Git & DevOps        ██████████████████░░
 <div align="center">
 
 <!-- Stats & Top Languages - pakai github-readme-stats yang paling stabil -->
-<img height="175" src="https://readme-stats-five-chi.vercel.app/api?username=BIIYYU&show_icons=true&count_private=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&ring_color=60a5fa&hide_border=false" />
+<img height="175" src="https://readme-stats-biiyu.vercel.app/api?username=BIIYYU&show_icons=true&count_private=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&ring_color=60a5fa&hide_border=false" />
 &nbsp;
-<img height="175" src="https://readme-stats-five-chi.vercel.app/api/top-langs/?username=BIIYYU&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8&hide_border=false" />
+<img height="175" src="https://readme-stats-biiyu.vercel.app/api/top-langs/?username=BIIYYU&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=8&hide_border=false" />
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=BIIYYU&theme=github-dark-blue&background=0d1117&border=30363d&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=94a3b8&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=64748b&stroke=0d1117&date_format=j%20M%5B%20Y%5D" />
+<!-- Contribution Last Year -->
+<img width="100%" src="https://ghchart.rshah.org/60a5fa/BIIYYU" alt="BIIYYU Contributions Chart" />
 
 <br/><br/>
 
