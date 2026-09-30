@@ -139,7 +139,7 @@ Git & DevOps        ██████████████████░░
 <br/><br/>
 
 <!-- Contribution Last Year -->
-<img width="100%" src="https://ghchart.rshah.org/60a5fa/BIIYYU" alt="BIIYYU Contributions Chart" />
+<img width="100%" src="https://ghchart.rshah.org/39d353/BIIYYU" alt="BIIYYU Contributions Chart" />
 
 </div>
 
