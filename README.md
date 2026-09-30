@@ -139,7 +139,7 @@ Git & DevOps        ██████████████████░░
 <br/><br/>
 
 <!-- Contribution Last Year -->
-<img width="100%" src="https://ghchart.rshah.org/39d353/BIIYYU" alt="BIIYYU Contributions Chart" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BIIYYU&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d35320&hide_border=true&radius=6&from=2026-01-01" alt="BIIYYU Contributions 2026" />
 
 </div>
 
